@@ -36,7 +36,27 @@ body {
 ol, ul {
 	list-style: none;
 }
-
+#navbar {
+	background-color: #2ee4bb;
+	position: fixed;  
+	width: 100%;
+	transition: top 0.3s; 
+	z-index: 1000;
+  }
+  
+  #navbar a {
+	float: left;
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 15px;
+	text-decoration: none;
+  }
+  
+  #navbar a:hover {
+	background-color: #ddd;
+	color: black;
+  }
 blockquote, q {
 	quotes: none;
 }
@@ -2507,19 +2527,21 @@ input, select, textarea {
 				margin-top: 0;
 			}
 
-		.image.fill {
-			height: 100%;
-			left: 0;
-			position: absolute;
-			top: 0;
-			width: 100%;
-		}
-
+			.image.fill {
+				width: 100%;
+				height: 100vh;
+				background-size: cover;
+				background-position: center;
+				background-repeat: no-repeat;
+				position: absolute;
+				top: 0;
+				right: 0;
+			}
 			.image.fill img {
 				height: 100%;
 				left: 0;
 				position: absolute;
-				top: 0;
+				top: -100px;
 				width: 100%;
 			}
 
