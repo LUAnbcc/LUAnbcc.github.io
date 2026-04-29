@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="174px" height="174px" viewBox="0 0 174 174">
+<defs><style type="text/css">.face{fill:#ffffff;stroke:#000000;stroke-width:2}.tickMajor{stroke:#000000;stroke-width:3}.tickMinor{stroke:#000000;stroke-width:1}.hourHand{stroke:#000000;stroke-width:6;stroke-linecap:round}.minHand{stroke:#000000;stroke-width:3;stroke-linecap:round}.centerDot{fill:#000000}</style></defs>
+<circle cx="87" cy="87" r="78.3" class="face" />
+<line x1="87.00" y1="19.14" x2="87.00" y2="8.70" class="tickMajor" />
+<line x1="94.64" y1="14.32" x2="95.18" y2="9.13" class="tickMinor" />
+<line x1="102.19" y1="15.52" x2="103.28" y2="10.41" class="tickMinor" />
+<line x1="109.58" y1="17.50" x2="111.20" y2="12.53" class="tickMinor" />
+<line x1="116.72" y1="20.24" x2="118.85" y2="15.47" class="tickMinor" />
+<line x1="120.93" y1="28.23" x2="126.15" y2="19.19" class="tickMajor" />
+<line x1="129.96" y1="27.88" x2="133.02" y2="23.65" class="tickMinor" />
+<line x1="135.90" y1="32.69" x2="139.39" y2="28.81" class="tickMinor" />
+<line x1="141.31" y1="38.10" x2="145.19" y2="34.61" class="tickMinor" />
+<line x1="146.12" y1="44.04" x2="150.35" y2="40.98" class="tickMinor" />
+<line x1="145.77" y1="53.07" x2="154.81" y2="47.85" class="tickMajor" />
+<line x1="153.76" y1="57.28" x2="158.53" y2="55.15" class="tickMinor" />
+<line x1="156.50" y1="64.42" x2="161.47" y2="62.80" class="tickMinor" />
+<line x1="158.48" y1="71.81" x2="163.59" y2="70.72" class="tickMinor" />
+<line x1="159.68" y1="79.36" x2="164.87" y2="78.82" class="tickMinor" />
+<line x1="154.86" y1="87.00" x2="165.30" y2="87.00" class="tickMajor" />
+<line x1="159.68" y1="94.64" x2="164.87" y2="95.18" class="tickMinor" />
+<line x1="158.48" y1="102.19" x2="163.59" y2="103.28" class="tickMinor" />
+<line x1="156.50" y1="109.58" x2="161.47" y2="111.20" class="tickMinor" />
+<line x1="153.76" y1="116.72" x2="158.53" y2="118.85" class="tickMinor" />
+<line x1="145.77" y1="120.93" x2="154.81" y2="126.15" class="tickMajor" />
+<line x1="146.12" y1="129.96" x2="150.35" y2="133.02" class="tickMinor" />
+<line x1="141.31" y1="135.90" x2="145.19" y2="139.39" class="tickMinor" />
+<line x1="135.90" y1="141.31" x2="139.39" y2="145.19" class="tickMinor" />
+<line x1="129.96" y1="146.12" x2="133.02" y2="150.35" class="tickMinor" />
+<line x1="120.93" y1="145.77" x2="126.15" y2="154.81" class="tickMajor" />
+<line x1="116.72" y1="153.76" x2="118.85" y2="158.53" class="tickMinor" />
+<line x1="109.58" y1="156.50" x2="111.20" y2="161.47" class="tickMinor" />
+<line x1="102.19" y1="158.48" x2="103.28" y2="163.59" class="tickMinor" />
+<line x1="94.64" y1="159.68" x2="95.18" y2="164.87" class="tickMinor" />
+<line x1="87.00" y1="154.86" x2="87.00" y2="165.30" class="tickMajor" />
+<line x1="79.36" y1="159.68" x2="78.82" y2="164.87" class="tickMinor" />
+<line x1="71.81" y1="158.48" x2="70.72" y2="163.59" class="tickMinor" />
+<line x1="64.42" y1="156.50" x2="62.80" y2="161.47" class="tickMinor" />
+<line x1="57.28" y1="153.76" x2="55.15" y2="158.53" class="tickMinor" />
+<line x1="53.07" y1="145.77" x2="47.85" y2="154.81" class="tickMajor" />
+<line x1="44.04" y1="146.12" x2="40.98" y2="150.35" class="tickMinor" />
+<line x1="38.10" y1="141.31" x2="34.61" y2="145.19" class="tickMinor" />
+<line x1="32.69" y1="135.90" x2="28.81" y2="139.39" class="tickMinor" />
+<line x1="27.88" y1="129.96" x2="23.65" y2="133.02" class="tickMinor" />
+<line x1="28.23" y1="120.93" x2="19.19" y2="126.15" class="tickMajor" />
+<line x1="20.24" y1="116.72" x2="15.47" y2="118.85" class="tickMinor" />
+<line x1="17.50" y1="109.58" x2="12.53" y2="111.20" class="tickMinor" />
+<line x1="15.52" y1="102.19" x2="10.41" y2="103.28" class="tickMinor" />
+<line x1="14.32" y1="94.64" x2="9.13" y2="95.18" class="tickMinor" />
+<line x1="19.14" y1="87.00" x2="8.70" y2="87.00" class="tickMajor" />
+<line x1="14.32" y1="79.36" x2="9.13" y2="78.82" class="tickMinor" />
+<line x1="15.52" y1="71.81" x2="10.41" y2="70.72" class="tickMinor" />
+<line x1="17.50" y1="64.42" x2="12.53" y2="62.80" class="tickMinor" />
+<line x1="20.24" y1="57.28" x2="15.47" y2="55.15" class="tickMinor" />
+<line x1="28.23" y1="53.07" x2="19.19" y2="47.85" class="tickMajor" />
+<line x1="27.88" y1="44.04" x2="23.65" y2="40.98" class="tickMinor" />
+<line x1="32.69" y1="38.10" x2="28.81" y2="34.61" class="tickMinor" />
+<line x1="38.10" y1="32.69" x2="34.61" y2="28.81" class="tickMinor" />
+<line x1="44.04" y1="27.88" x2="40.98" y2="23.65" class="tickMinor" />
+<line x1="53.07" y1="28.23" x2="47.85" y2="19.19" class="tickMajor" />
+<line x1="57.28" y1="20.24" x2="55.15" y2="15.47" class="tickMinor" />
+<line x1="64.42" y1="17.50" x2="62.80" y2="12.53" class="tickMinor" />
+<line x1="71.81" y1="15.52" x2="70.72" y2="10.41" class="tickMinor" />
+<line x1="79.36" y1="14.32" x2="78.82" y2="9.13" class="tickMinor" />
+<g transform="rotate(60.00 87.00 87.00)">
+<line x1="87.00" y1="87.00" x2="87.00" y2="24.36" class="minHand" />
+</g>
+<g transform="rotate(335.00 87.00 87.00)">
+<line x1="87.00" y1="87.00" x2="87.00" y2="43.94" class="hourHand" />
+</g>
+<circle cx="87" cy="87" r="3.48" class="centerDot" />
+<text x="87" y="133.98" font-family="Arial" font-size="10.44" text-anchor="middle" fill="#000000">11:10</text>
+</svg>
